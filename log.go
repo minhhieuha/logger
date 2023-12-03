@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-var Version string = "1.0"
+var Version string = "0.1.2"
 
 func Log(mess string) {
 	fmt.Println("[LOG] " + mess)
